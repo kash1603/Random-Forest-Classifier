@@ -1,7 +1,7 @@
 
-# Random Forest Classifier for Social Network Ads
+# Random Forest Classifier for Salary data
 
-This project demonstrates the use of a Random Forest Classifier to predict user behavior based on demographic data. The dataset used is "Social_Network_Ads.csv," where the goal is to predict whether a user purchases a product based on their age and estimated salary.
+This project demonstrates the use of a Random Forest Classifier to predict user behavior based on demographic data. The dataset used is "Salary_data.csv," where the goal is to predict whether a user purchases a product based on their age and estimated salary.
 
 ## Dataset
 The dataset consists of user demographic data:
